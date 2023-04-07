@@ -1,6 +1,6 @@
 # my-quarkus-app-31
 
-Testing
+![Architecture](https://drive.google.com/file/d/1TJZLEwKFJer5RMpKn3rh9w2ftYGChPtg/view)
 
 ## Running the application in dev mode
 

@@ -2,6 +2,8 @@
 
 ![Architecture](https://drive.google.com/file/d/1TJZLEwKFJer5RMpKn3rh9w2ftYGChPtg/view)
 
+
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
